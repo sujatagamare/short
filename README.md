@@ -1,2 +1,2 @@
 # short
-just another
+just another repository
